@@ -1,12 +1,11 @@
 # Databricks notebook source
-# MAGIC %md
-# MAGIC **Importación de la librerias necesarias**
+print("Hola")
+
 
 # COMMAND ----------
 
-from pyspark.sql.types import *
-from pyspark.sql.functions import *
-import uuid
+
+
 
 # COMMAND ----------
 
