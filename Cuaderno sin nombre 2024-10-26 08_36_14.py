@@ -10,6 +10,11 @@ import uuid
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC **Creación de las variables** 
+
+# COMMAND ----------
+
 # Variables de ubicación de archivos
 dl_location = 'abfss://dataengineering@bidatarepositoryg3agonza.dfs.core.windows.net/'
 raw_location = dl_location + 'RAW/'
